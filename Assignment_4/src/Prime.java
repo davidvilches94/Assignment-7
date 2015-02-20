@@ -14,7 +14,7 @@ public class Prime {
 		limit_value = input.nextInt();
 		
 		
-		for (prime_number = 2; prime_number <= limit_value; counter++)
+		for (prime_number = 2; prime_number <= limit_value; counter++);
 			
 			
 			
