@@ -1,4 +1,4 @@
-
+// Do not copy or give out code to another student again.
 public class Coin {
 	
 private String sideUp;
