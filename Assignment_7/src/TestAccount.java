@@ -1,4 +1,4 @@
-
+//OK. The withdraw and deposit methods should be called with amounts.
 public class TestAccount {
 	
 	public static void main(String [] args ){
